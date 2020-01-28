@@ -1,2 +1,2 @@
-git is a version control system.
-gei is free software.
+git is a poor control system.
+git is the worst software.
